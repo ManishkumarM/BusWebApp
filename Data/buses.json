@@ -1,0 +1,197 @@
+[
+    {
+        "_id": {
+            "$oid": "641aae017ab2dbf9728b3f68"
+        },
+        "companyname": "Purpal",
+        "from": "Delhi",
+        "to": "Jaipur",
+        "price": 2500,
+        "email": "Purpal@gmail.com",
+        "phone": 6530306868,
+        "aminites": [
+            "NONAC",
+            "SLEEPER"
+        ],
+        "rating": 3.8,
+        "arrival": "15",
+        "departure": "13",
+        "seats": [
+            "2023-03-25@9,8@men",
+            "2023-03-22@20@women",
+            "2023-03-24@18@men",
+            "2023-03-25@1@men"
+        ],
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "641aae337ab2dbf9728b3f6a"
+        },
+        "companyname": "Neeta",
+        "from": "Chennai",
+        "to": "Pondicherry",
+        "price": 3000,
+        "email": "Neeta@gmail.com",
+        "phone": 6530306868,
+        "aminites": [
+            "AC",
+            "SLEEPER"
+        ],
+        "rating": 4.5,
+        "arrival": "18",
+        "departure": "6",
+        "seats": [
+            "2023-03-26@9,10@men"
+        ],
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "641aae6a7ab2dbf9728b3f6c"
+        },
+        "companyname": "Durga",
+        "from": "Kolkata",
+        "to": "Digha",
+        "price": 1800,
+        "email": "Durga@gmail.com",
+        "phone": 6530306868,
+        "aminites": [
+            "AC",
+            "SEATER"
+        ],
+        "rating": 3.5,
+        "arrival": "12",
+        "departure": "7",
+        "seats": [],
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "641aae8b7ab2dbf9728b3f6e"
+        },
+        "companyname": "Durga",
+        "from": "Lucknow",
+        "to": "Agra",
+        "price": 2200,
+        "email": "Durga@gmail.com",
+        "phone": 6530306868,
+        "aminites": [
+            "NONAC",
+            "SEATER"
+        ],
+        "rating": 3.5,
+        "arrival": "14",
+        "departure": "10",
+        "seats": [],
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "641ab2ac4854a2c00e23ceb0"
+        },
+        "companyname": "Volvo",
+        "from": "Hyderabad",
+        "to": "Vijayawada",
+        "price": 5000,
+        "email": "Volvo@gmail.com",
+        "phone": 6530306868,
+        "aminites": [
+            "AC",
+            "SLEEPER"
+        ],
+        "rating": 4.7,
+        "arrival": "20",
+        "departure": "5",
+        "seats": [],
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6422e1c73243ba2225e77e6b"
+        },
+        "companyname": "Durgesh",
+        "from": "Ahmedabad",
+        "to": "Surat",
+        "price": 4000,
+        "email": "Durgesh@gmail.com",
+        "phone": 6530306868,
+        "aminites": [
+            "AC",
+            "SLEEPER"
+        ],
+        "rating": 4.6,
+        "arrival": "21",
+        "departure": "5",
+        "seats": [
+            {
+                "name": "",
+                "surname": "pqr",
+                "_id": {
+                    "$oid": "6422e1c73243ba2225e77e6c"
+                }
+            }
+        ],
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6422e1c73243ba2225e77e6d"
+        },
+        "companyname": "GreenLine",
+        "from": "Hyderabad",
+        "to": "Warangal",
+        "price": 1500,
+        "email": "GreenLine@gmail.com",
+        "phone": 6530306868,
+        "aminites": [
+            "NONAC",
+            "SEATER"
+        ],
+        "rating": 4.2,
+        "arrival": "9",
+        "departure": "6",
+        "seats": [],
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6422e1c73243ba2225e77e6e"
+        },
+        "companyname": "Orange",
+        "from": "Hyderabad",
+        "to": "Tirupati",
+        "price": 3500,
+        "email": "Orange@gmail.com",
+        "phone": 6530306868,
+        "aminites": [
+            "AC",
+            "SLEEPER"
+        ],
+        "rating": 4.4,
+        "arrival": "19",
+        "departure": "5",
+        "seats": [],
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6422e1c73243ba2225e77e6f"
+        },
+        "companyname": "BlueLine",
+        "from": "Hyderabad",
+        "to": "Nagpur",
+        "price": 4000,
+        "email": "BlueLine@gmail.com",
+        "phone": 6530306868,
+        "aminites": [
+            "AC",
+            "SLEEPER"
+        ],
+        "rating": 4.5,
+        "arrival": "16",
+        "departure": "7",
+        "seats": [],
+        "__v": 0
+    }
+]
